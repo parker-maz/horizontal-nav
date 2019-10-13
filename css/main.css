@@ -13,7 +13,7 @@ h1 {
   display: block;
   text-align: center;
   margin: 0;
-  font-family: Bevan;
+  font-family: Bevan, sans-serif;
   color: #fff;
 }
 
@@ -41,7 +41,7 @@ a {
 }
 
 li a:hover {
-  background-color: #f33
+  background-color: #f33;
 }
 
 body {
