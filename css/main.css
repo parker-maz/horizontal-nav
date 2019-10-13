@@ -28,14 +28,20 @@ li {
   display: inline-block;
   margin-right: .3em;
   margin-bottom: .3em;
-  padding: .6em .75em;
   background-color: #713837;
   border-radius: 5px;
 }
 
 a {
+  display: inline-block;
+  padding: .6em .75em;
+  border-radius: 5px;
   color: #fff;
   text-decoration: none;
+}
+
+li a:hover {
+  background-color: #f33
 }
 
 body {
